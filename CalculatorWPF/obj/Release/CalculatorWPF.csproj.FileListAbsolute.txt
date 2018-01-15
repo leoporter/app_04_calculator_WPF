@@ -1,0 +1,13 @@
+c:\users\dominik\documents\visual studio 2015\Projects\CalculatorWPF\CalculatorWPF\bin\Release\CalculatorWPF.exe.config
+c:\users\dominik\documents\visual studio 2015\Projects\CalculatorWPF\CalculatorWPF\bin\Release\CalculatorWPF.exe
+c:\users\dominik\documents\visual studio 2015\Projects\CalculatorWPF\CalculatorWPF\bin\Release\CalculatorWPF.pdb
+c:\users\dominik\documents\visual studio 2015\Projects\CalculatorWPF\CalculatorWPF\obj\Release\MainWindow.g.cs
+c:\users\dominik\documents\visual studio 2015\Projects\CalculatorWPF\CalculatorWPF\obj\Release\App.g.cs
+c:\users\dominik\documents\visual studio 2015\Projects\CalculatorWPF\CalculatorWPF\obj\Release\CalculatorWPF_MarkupCompile.cache
+c:\users\dominik\documents\visual studio 2015\Projects\CalculatorWPF\CalculatorWPF\obj\Release\CalculatorWPF_MarkupCompile.lref
+c:\users\dominik\documents\visual studio 2015\Projects\CalculatorWPF\CalculatorWPF\obj\Release\MainWindow.baml
+c:\users\dominik\documents\visual studio 2015\Projects\CalculatorWPF\CalculatorWPF\obj\Release\CalculatorWPF.g.resources
+c:\users\dominik\documents\visual studio 2015\Projects\CalculatorWPF\CalculatorWPF\obj\Release\CalculatorWPF.Properties.Resources.resources
+c:\users\dominik\documents\visual studio 2015\Projects\CalculatorWPF\CalculatorWPF\obj\Release\CalculatorWPF.csproj.GenerateResource.Cache
+c:\users\dominik\documents\visual studio 2015\Projects\CalculatorWPF\CalculatorWPF\obj\Release\CalculatorWPF.exe
+c:\users\dominik\documents\visual studio 2015\Projects\CalculatorWPF\CalculatorWPF\obj\Release\CalculatorWPF.pdb
